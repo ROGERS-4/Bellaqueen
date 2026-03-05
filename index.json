@@ -1,7 +1,7 @@
 const { spawn } = require('child_process');
 const path = require('path');
 
-console.log('Starting 𝐐𝐔𝐄𝐄𝐍 𝐁𝐄𝐋𝐋𝐀 𝐕𝟏...');
+console.log('Starting QUEEN BELLA V1...');
 
 function startBot() {
   const bot = spawn('node', [path.join(__dirname, 'lib', 'connection.js')], {
