@@ -1,0 +1,4 @@
+await bot.sendMessage(msg.from, {
+  image: { url: "./media/menu.jpg" },
+  caption: "💫 QUEEN BELLA COMMANDS MENU 💫"
+});
