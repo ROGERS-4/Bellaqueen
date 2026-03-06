@@ -1,0 +1,16 @@
+{
+  "name": "queen-bella-md",
+  "version": "1.0.0",
+  "description": "QUEEN BELLA Multi-Device WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rodgers",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.2",
+    "axios": "^1.6.3",
+    "form-data": "^4.0.0"
+  }
+}
